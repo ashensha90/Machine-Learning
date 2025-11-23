@@ -1,0 +1,20 @@
+# Core Scientific Computing
+numpy>=1.19.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# Data Visualization
+matplotlib>=3.3.0
+
+# Computer Vision (for face detection project)
+opencv-python>=4.5.0
+dlib>=19.22.0
+imutils>=0.5.4
+
+# Model Persistence
+joblib>=1.0.0
+
+# Optional: For Jupyter notebooks (if you want to create tutorials)
+# jupyter>=1.0.0
+# ipython>=7.20.0
