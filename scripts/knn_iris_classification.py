@@ -3,7 +3,7 @@ K-Nearest Neighbors (KNN) - Iris Flower Classification
 ======================================================
 Implements KNN algorithm to classify iris flowers using scikit-learn.
 
-Author: Your Name
+Author: Ashen Perera
 Date: 2024
 """
 
