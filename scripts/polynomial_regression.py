@@ -3,7 +3,7 @@ Polynomial Regression for Non-Linear Data
 ==========================================
 Demonstrates polynomial regression using scikit-learn to fit non-linear data.
 
-Author: Your Name
+Author: Ashen Perera
 Date: 2024
 """
 
