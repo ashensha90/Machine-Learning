@@ -3,7 +3,7 @@ MeanShift Clustering - Iris Flower 3D Visualization
 ===================================================
 Implements MeanShift clustering algorithm and visualizes results in 3D space.
 
-Author: Your Name
+Author: Ashen Perera
 Date: 2024
 """
 
